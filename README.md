@@ -1,8 +1,8 @@
 # Pizza Palace
 
-#### Created By Wilson Kinyua Muthoni on 30-07-2021
+#### Created By Edward Mbitsi on 30-07-2022
 ## Description
-Week 4 Independent Project | Pizza Palace at Moringa School Prep Module. A web application where customers order different sizes of pizzas with one or more toppings. 
+Pizza Palace at Moringa School Prep Module. A web application where customers order different sizes of pizzas with one or more toppings. 
 ## Setup Requirements
 * Git
 * Web-browser or your choice
@@ -66,7 +66,7 @@ To make a contribution to the code used or any suggestions you can click on the 
 ## License
 
 
-Copyright (c) 2021 Moringa school
+Copyright (c) 2022 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files , to deal
