@@ -61,8 +61,8 @@ Pizza Palace at Moringa School Prep Module. A web application where customers or
  So far so good there are no bugs related to this project 😎
 ## Support and contact details 🙂
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
-* Email: wilson@developerwilson.com
-* Phone: +254717255460
+* Email: mbitsiedward@gmail.com
+* Phone: +254792069760
 ## License
 
 
