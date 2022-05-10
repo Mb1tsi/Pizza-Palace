@@ -1,5 +1,4 @@
-// author: Wilson Kinyua
-// email: wilsonkinyuam@gmail.com
+
 // license: MIT
 // description: All scripts
 // create date: 30/07/2021
